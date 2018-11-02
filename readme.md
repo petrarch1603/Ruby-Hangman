@@ -1,0 +1,1 @@
+Dictionary Source: https://www.scrapmaker.com/download/data/wordlists/twelve-dicts/5desk.txt
